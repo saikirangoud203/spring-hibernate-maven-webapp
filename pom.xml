@@ -151,11 +151,5 @@
 		</plugin> 	
             </plugins>
 	</build>
-	<distributionManagement>
-        <repository>
-            <id>releases</id>
-            <url>http://35.196.39.45:8081/nexus/content/repositories/releases/</url>
-        </repository>
-    	</distributionManagement>
-</project>
+	</project>
 
